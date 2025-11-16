@@ -47,13 +47,21 @@ python -m pip install --upgrade pip
 #INSTALL REQUIRED LIBRARIES
 
 pip install opencv-python
+
 pip install numpy
+
 pip install deepface
+
 pip install tensorflow==2.20.0
+
 pip install tf-keras==2.20.0
+
 pip install retina-face
+
 pip install pandas
+
 pip install matplotlib
+
 pip install tqdm
 
 
