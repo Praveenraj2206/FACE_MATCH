@@ -18,7 +18,7 @@ python -m venv venv
 ```bash
 cd OPENCVPROJECT
 ```
--> OPTIONAL → Upgrade pip
+-> OPTIONAL to Upgrade pip
 ```bash
 python -m pip install --upgrade pip
 ```
