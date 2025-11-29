@@ -61,7 +61,7 @@ python FaceMatch.py
 ---
 
 
-**5) STOP THE PROGRAM**
+**5) STOP THE EXECUTION**
 ```bash
 Press 'q' in the webcam window
             OR
